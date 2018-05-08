@@ -2,16 +2,16 @@ GhostProtocolCash integration/staging tree
 ================================
 
 http://http://www.ghostprotocal.org/
-
+```
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2013 NovaCoin Developers
 Copyright (c) 2011-2012 PPCoin Developers
 Copyright (c) 2017-2023 GhostProtocolCash Developers
-
+```
 What is GhostProtocolCash?
 ----------------
 
-GhostProtocolCash is a lite version of Bitcoin using scrypt as algorithm and using a proof-of-stake technology.
+GhostProtocolCash is a lite version of Bitcoin using scrypt as algorithm and a PoS-based cryptocurrency using proof-of-stake technology.
  - Algo: Scrypt
  - Type: Hybrid (PoW/Pos)
  - Nama: GhostProtocolCash
