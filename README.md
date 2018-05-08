@@ -1,0 +1,2 @@
+# GhostProtocolCash
+New PoS Altcoin
