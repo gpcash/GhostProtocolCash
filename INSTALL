@@ -1,0 +1,9 @@
+Building GhostProtocolCash
+
+See doc/readme-qt.rst for instructions on building GhostProtocolCash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GhostProtocolCash.
+
+See doc/build-*.txt for instructions on building ghostprotocolcashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GhostProtocolCash.
