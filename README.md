@@ -27,7 +27,11 @@ GhostProtocolCash is a lite version of Bitcoin using scrypt as algorithm and a P
  - Minimum Coin Age to Stake: 12 hours
 
 For more information, as well as an immediately useable, binary version of
-the GhostProtocolCash client sofware, see http://gpc.pointto.us.
+the GhostProtocolCash client sofware, see https://github.com/gpcash/GhostProtocolCash/releases
+
+Block Explorer
+--------------
+http://gpc.pointto.us.
 
 License
 -------
