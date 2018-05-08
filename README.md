@@ -4,9 +4,9 @@ GhostProtocolCash integration/staging tree
 http://http://www.ghostprotocal.org/
 ```
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2013 NovaCoin Developers
 Copyright (c) 2011-2012 PPCoin Developers
-Copyright (c) 2017-2023 GhostProtocolCash Developers
+Copyright (c) 2013 NovaCoin Developers
+Copyright (c) 2018-2023 GhostProtocolCash Developers
 ```
 What is GhostProtocolCash?
 ----------------
