@@ -1,7 +1,7 @@
 GhostProtocolCash integration/staging tree
 ================================
 
-http://http://www.ghostprotocal.org/
+http://www.ghostprotocal.org/
 ```
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2012 PPCoin Developers
@@ -31,7 +31,7 @@ the GhostProtocolCash client sofware, see https://github.com/gpcash/GhostProtoco
 
 Block Explorer
 --------------
-http://gpc.pointto.us.
+http://ghostprotocal.org:8888
 
 License
 -------
